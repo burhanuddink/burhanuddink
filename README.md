@@ -1,3 +1,4 @@
+![logo](https://github.com/burhanuddink/burhanuddink/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Burhanuddin Khokhawala</h1>
 <h3 align="center">Committed to Mastering Data Science 📊</h3>
 
