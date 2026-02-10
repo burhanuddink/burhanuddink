@@ -30,7 +30,3 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanuddink&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=burhanuddink&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
-</p>
