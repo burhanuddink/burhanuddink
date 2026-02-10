@@ -11,11 +11,10 @@
 - 🎓 **MSc AI Student:** Currently studying at Loughborough University (2025-2026), focusing on Machine Learning, Computer Vision, and NLP.
 - 📊 **Experienced Data Scientist:** Specialized in Python, Power BI, and building user-centric data solutions.
 - ⚡ **Impact Driven:** Previously saved **10,000+ hours annually** through automation and achieved **93% accuracy** in solar energy forecasting.
-- 🏋️‍♂️ **Fun fact:** I am a gym addict! 💪
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python (Advanced), SQL, Java.
-- **AI/ML:** Machine Learning, NLP, Computer Vision, Deep Learning (EfficientNet, Transfer Learning).
+- **AI/ML:** Machine Learning, NLP, Computer Vision, Deep Learning.
 - **Data & Viz:** Power BI (DAX), Advanced Excel, Pandas, Scikit-learn, TensorFlow, PyTorch.
 - **Big Data:** MongoDB, MySQL.
 
@@ -28,7 +27,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/burhanuddin-khokhawala-227692222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="mailto:burhan.khokhawala@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="25" /></a>
-<a href="https://www.instagram.com/burhanuddinkhokhawala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ---
