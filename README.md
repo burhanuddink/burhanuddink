@@ -1,4 +1,4 @@
-![logo](https://github.com/burhanuddink/burhanuddink/blob/main/Github%20Banner.png)
+![logo](https://github.com/burhanuddink/burhanuddink/blob/main/Github%20Banner%20new.jpg)
 
 <h1 align="center">Hi 👋, I'm Burhanuddin Khokhawala</h1>
 <h3 align="center">MSc Artificial Intelligence Student @ Loughborough University | Data Scientist</h3>
