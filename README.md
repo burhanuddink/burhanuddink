@@ -8,30 +8,27 @@
 </p>
 
 ### 👨‍💻 About Me
-- [cite_start]🎓 Currently pursuing an **MSc in Artificial Intelligence** at **Loughborough University** (2025-2026)[cite: 9].
-- [cite_start]📊 **Data Scientist** specializing in transforming complex data into impactful, user-centric solutions[cite: 5, 6].
-- [cite_start]⚡ **Impact Driven:** Previously saved **10,000+ hours annually** through Python automation and achieved **93% accuracy** in solar energy forecasting.
-- 🏋️‍♂️ Fun fact: I am a gym addict! 💪
+- 🎓 **MSc AI Student:** Currently studying at Loughborough University (2025-2026), focusing on Machine Learning, Computer Vision, and NLP.
+- 📊 **Experienced Data Scientist:** Specialized in Python, Power BI, and building user-centric data solutions.
+- ⚡ **Impact Driven:** Previously saved **10,000+ hours annually** through automation and achieved **93% accuracy** in solar energy forecasting.
+- 🏋️‍♂️ **Fun fact:** I am a gym addict! 💪
 
 ### 🛠️ Tech Stack & Tools
-- [cite_start]**Languages:** Python (Advanced), SQL, Java[cite: 13, 45, 46].
-- [cite_start]**AI/ML:** Machine Learning, NLP, Computer Vision, Deep Learning (Transfer Learning)[cite: 10, 40, 41, 46].
-- [cite_start]**Data & Viz:** Power BI, Advanced Excel, pandas, Scikit-learn, TensorFlow, PyTorch[cite: 14, 45, 49].
-- [cite_start]**Big Data:** MongoDB, MySQL[cite: 13].
+- **Languages:** Python (Advanced), SQL, Java.
+- **AI/ML:** Machine Learning, NLP, Computer Vision, Deep Learning (EfficientNet, Transfer Learning).
+- **Data & Viz:** Power BI (DAX), Advanced Excel, Pandas, Scikit-learn, TensorFlow, PyTorch.
+- **Big Data:** MongoDB, MySQL.
 
 ### 📈 Professional Highlights
-- [cite_start]**95% Productivity Increase:** Engineered automation for 50+ client processes at JHS & Associates[cite: 21].
-- [cite_start]**90% Faster Performance Management:** Redesigned appraisal ecosystems for 600+ employees[cite: 26].
-- [cite_start]**93% Prediction Accuracy:** Developed ML models for solar energy yield forecasting[cite: 33, 34].
-
-### 📂 Featured Projects
-* [cite_start]**Sea Animal Classification:** A high-precision system using Transfer Learning (EfficientNetB0).
-* [cite_start]**Solar Energy Forecasting:** Predictive modeling for 600+ solar plants using historical and meteorological data[cite: 31, 33].
+- **95% Productivity Increase:** Engineered automation for 50+ client processes at JHS & Associates.
+- **90% Faster Performance Management:** Redesigned appraisal ecosystems for 600+ employees.
+- **93% Prediction Accuracy:** Developed ML models for solar energy yield forecasting.
 
 ### 📫 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/burhanuddin-khokhawala-227692222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="mailto:burhan.khokhawala@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="25" /></a>
+<a href="https://www.instagram.com/burhanuddinkhokhawala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ---
