@@ -3,10 +3,6 @@
 <h1 align="center">Hi, I'm Burhanuddin Khokhawala</h1>
 <h3 align="center">AI & Machine Learning Engineer | MSc AI @ Loughborough University</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=burhanuddink&label=Profile%20views&color=0e75b6&style=flat" alt="burhanuddink" />
-</p>
-
 ### About Me
 - **MSc AI Student:** Specializing in **Computer Vision**, **Edge AI** (Jetson Nano), and **RAG Systems**.
 - **Applied AI Engineer:** Passionate about optimizing inference latency and deploying models to production (Hugging Face / Docker).
@@ -22,11 +18,6 @@
 - **Real-Time Edge AI:** Deployed YOLOv11 on NVIDIA Jetson Orin Nano with <100ms latency for robotic tracking.
 - **RAG System Deployment:** Built and deployed a context-aware PDF Chatbot using Gemini 1.5 Pro and FAISS.
 - **93% Forecast Accuracy:** Developed Random Forest models for solar energy yield prediction.
-
-### GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=burhanuddink&show_icons=true&theme=radical&hide=stars" alt="Burhanuddin's Stats" />
-</p>
 
 ### Connect with me:
 <p align="left">
